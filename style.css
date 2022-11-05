@@ -28,3 +28,13 @@
     position: relative;
     box-shadow: 0 0 20px 9px #F5B7B1 ;
 }
+
+.toggle-btn{
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    outline: none;
+    position: relative;
+
+}
