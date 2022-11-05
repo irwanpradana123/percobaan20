@@ -59,5 +59,23 @@
     box-shadow: 0 0 20px 0 #1F0906;
     cursor: pointer;
     border-radius: 50%;
+}
 
+.input-group{
+    top: 180px;
+    position: absolute;
+    width: 280px;
+    transition: .5s;
+}
+
+.input-field{
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent ;
 }
